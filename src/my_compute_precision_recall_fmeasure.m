@@ -1,6 +1,4 @@
 function temp_obj_eval = my_compute_precision_recall_fmeasure(u, u0_GT, u0_SKL_GT)
-% 121227: Reza FARRAHI MOGHADDAM and Hossein ZIAEI NAFCHI
-% 090519: Reza FARRAHI MOGHADDAM
 % used in objective_evaluation_core.m
 
 %
