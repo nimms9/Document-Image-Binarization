@@ -1,6 +1,4 @@
-% test example
-% December 27th, 2012, By Reza FARRAHI MOGHADDAM and Hossein ZIAEI NAFCHI, Synchromedia Lab, ETS, Montreal, Canada
-% April 15th, 2010, By Reza FARRAHI MOGHADDAM, Synchromedia Lab, ETS, Montreal, Canada
+
 
 % original file name
 u_filename = 'H04_og.tif';
