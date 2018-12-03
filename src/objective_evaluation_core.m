@@ -1,8 +1,5 @@
 function temp_obj_eval = objective_evaluation_core(u, u0_GT, u_SKL_GT)
 % This function can be used to evaluate objectively the performance of binarization methods for document image.
-%
-% December 27th, 2012, By Reza FARRAHI MOGHADDAM and Hossein ZIAEI NAFCHI, Synchromedia Lab, ETS, Montreal, Canada
-% May 17th, 2010, By Reza FARRAHI MOGHADDAM, Synchromedia Lab, ETS, Montreal, Canada
 % 
 % The implemented measures are as follows [1]:
 % Precision: 
